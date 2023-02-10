@@ -3,3 +3,5 @@ export interface INotification<T = unknown> {
     businessUnit: string;
     content: T;
 }
+
+export interface IHub{}
