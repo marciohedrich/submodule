@@ -4,4 +4,6 @@ export interface INotification<T = unknown> {
     content: T;
 }
 
-export interface IHub{}
+export interface IHub{
+    name : String;
+}
