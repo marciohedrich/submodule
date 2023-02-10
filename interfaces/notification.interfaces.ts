@@ -7,3 +7,7 @@ export interface INotification<T = unknown> {
 export interface IHub{
     name : String;
 }
+
+export interface IBU{
+    
+}
